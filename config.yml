@@ -5,8 +5,8 @@ theme: PaperMod
 
 params:
   homeInfoParams:
-    Title: "Attempt #2"
-    Content: Hope this works 🤞
+    Title: "A Site is Live!"
+    Content: The sky is the limit. 
 
 menu:
   main:

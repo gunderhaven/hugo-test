@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://classy-crepe-0a423e.netlify.app"
 languageCode: en-us
 title: A Hugo Site
 theme: PaperMod

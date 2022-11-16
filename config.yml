@@ -1,12 +1,16 @@
-baseURL: "https://classy-crepe-0a423e.netlify.app"
+baseURL: "https://andbutso.netlify.app/"
 languageCode: en-us
 title: A Hugo Site
 theme: PaperMod
 
 params:
+
   homeInfoParams:
     Title: "A Site is Live!"
     Content: The sky is the limit. 
+
+
+  
 
 menu:
   main:
